@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#header{
+   height: 100px; 
+   width: 100%;
+   background-color:darkkhaki;
+}
+
+.content{
+    width: 100%;
+    display: flex;
+}
+
+#menu{
+    height: 600px;
+    width: 35%;
+    background-color: pink;
+}
+
+.two-posts{
+    height: 600px;
+    width: 65%;
+}
+
+.post{
+    height: 300px;
+    width: 100%;
+    background-color:lightblue;
+}
+
+#footer{
+    height: 100px;
+    width: 100%;
+    background-color: lightgoldenrodyellow;
+}

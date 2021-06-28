@@ -1,0 +1,41 @@
+.main{
+    height: fit-content;
+    width: fit-content;
+    border: black solid 3px; 
+}
+
+.radius{
+    border-radius: 5%;
+}
+
+.grey{
+    background-color: grey;
+}
+
+ .center{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+.boxA{
+    height: 200px;
+    width: 1000px;
+    margin: 10px 10px 5px;
+}
+
+.boxB{
+    height: 400px;
+    width: 690px;
+    margin: 0px 5px 10px 10px;
+}
+
+.boxC{
+    height: 400px;
+    width: 300px;
+    margin: 0px 10px 10px 5px;
+}
+
+.boxBC{
+    display: flex;
+}

@@ -1,0 +1,33 @@
+body{
+    margin: 10px;
+}
+
+.to-left{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navi{
+    height: 600px;
+    width: 50%;
+    background-color: cadetblue;
+}
+
+.kabobs{
+    height: 300px;
+    width: 100%;
+    background-color: cadetblue;
+}
+
+.menu{
+    height: 300px;
+    width: 33.33%;
+    background-color: darkblue;
+}

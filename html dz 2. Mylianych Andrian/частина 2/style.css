@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header{
+    height: 150px;
+    background-color: mediumblue;
+}
+
+.navigation{
+    height: 100px;
+    width: 100%;
+    background-color: midnightblue;
+}
+
+.main{
+    height: 600px;
+    width: 80%;
+    background-color:steelblue;
+}
+
+.aside{
+    height: 600px;
+    width: 20%;
+    background-color:darkslateblue;
+}
+
+.two-divs{
+    display: flex;
+}
+
+.footer{
+    height: 100px;
+    background-color: lightblue;
+}

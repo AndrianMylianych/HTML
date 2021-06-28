@@ -1,0 +1,73 @@
+.header{
+    display: flex;
+}
+
+.logo{
+    height: 100px;
+    width: 150px;
+    background-color: red;
+}
+
+.nav{
+    height: 100px;
+    width: 800px;
+    background-color: blueviolet;
+    margin-left: 10px;
+}
+
+.summary{
+    height: 100px;
+    width: 960px;
+    background-color: burlywood;
+    margin: 10px 0;
+}
+
+.allert{
+    height: 200px;
+    width: 960px;
+    background-color: chartreuse;
+    margin-bottom: 10px;
+}
+
+.mini{
+    height: 250px;
+    width: 234px;
+    background-color: chocolate;
+    margin-right: 9px;
+    margin-bottom: 10px;
+}
+
+.double{
+    display: flex;
+}
+
+.windows{
+    display: flex;
+    flex-direction: column;
+}
+
+.large{
+    height: 510px;
+    width: 472px;
+    margin-left: 2px;
+    background-color: cornflowerblue;
+}
+
+.content{
+    display: flex;
+}
+
+.range{
+    display: flex;
+}
+
+.last{
+    width: 960px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.mini-last{
+    margin-left: 9px;
+    margin-right: 0;
+}
